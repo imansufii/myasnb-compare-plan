@@ -1,7 +1,7 @@
 # Sprint 1 Log
 
 - **Planning date:** 16 November 2026
-- **Status:** Documentation tasks completed; project board pending
+- **Status:** Completed
 - **Sprint goal:** Organise the MyASNB Compare and Plan concept into a clear portfolio repository and practise the issue, branch, and pull-request workflow using genuine documentation tasks.
 
 ## Sprint backlog
@@ -25,32 +25,32 @@
 - Pushed three feature branches and opened pull requests #4, #5, and #6 for review.
 - Reviewed the three pull-request diffs, confirmed that they were cleanly mergeable, and merged them using merge commits.
 - Confirmed that GitHub closed issues #1, #2, and #3 through the pull-request closing references.
+- Created the [Sprint 1 project board](https://github.com/users/imansufii/projects/1) and added the three completed issues to the **Done** column.
 
 ## Current progress
 
-- **Completed on GitHub:** README, `.gitignore`, seven documentation files, source placeholder, three issues, three feature branches, and three merged pull requests.
-- **Pending on GitHub:** create the Sprint 1 project board and add the three closed issues as evidence of the lab workflow.
+- **Completed on GitHub:** README, `.gitignore`, seven documentation files, source placeholder, three issues, three feature branches, three merged task pull requests, the final sprint-status pull request, and the Sprint 1 project board.
 - **Not started:** an application prototype, user testing, or measured performance tests.
 
-## Blockers
+## Permission notes
 
 - The connected GitHub integration can read the repositories but did not have permission to create issues on 16 November 2026. An authenticated GitHub API fallback was used successfully.
-- The available GitHub credential does not include the `read:project` or `project` scope required for GitHub Projects, so the Sprint 1 board could not be created through the API.
+- The available GitHub credential does not include the `read:project` or `project` scope required for GitHub Projects. The board was therefore created through the signed-in GitHub website.
 
 ## Sprint review
 
-The documentation was checked against the repository-related rubric before merging. Pull requests #4, #5, and #6 were merged into `main`, and their linked issues were closed. The repository now contains the planned documentation structure. The Sprint 1 project board remains outstanding because the available credential lacks GitHub Projects permission.
+The documentation was checked against the repository-related rubric before merging. Pull requests #4, #5, and #6 were merged into `main`, and their linked issues were closed. The repository contains the planned documentation structure, and the three issues are recorded in the **Done** column of the Sprint 1 board.
 
 ## Retrospective
 
 - **What went well:** The assignment rubric and report provided a clear source of truth, and separating the documentation into three issues made each pull request focused and reviewable.
-- **What was difficult:** The connected integration rejected issue creation, and the available credential does not have GitHub Projects permission.
+- **What was difficult:** The connected integration rejected issue creation, and the available credential did not provide GitHub Projects API access.
 - **What I will change next:** Check repository and Projects permissions before sprint planning and update the sprint log immediately after each issue or pull-request state changes.
 
 ## Evidence checklist
 
 - [x] Three GitHub issues created
-- [ ] Issues added to a Sprint 1 project board
+- [x] Issues added to the [Sprint 1 project board](https://github.com/users/imansufii/projects/1)
 - [x] Feature branches pushed
 - [x] Three pull requests opened
 - [x] Pull requests reviewed
