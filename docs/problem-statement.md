@@ -12,9 +12,9 @@ Whether a separate comparison view would help beginners remains a design hypothe
 
 ## Users and stakeholders
 
-**Primary users:** new adult investors, including students and young employees saving towards a goal.  
-**Secondary users:** returning investors comparing alternatives.  
-**Stakeholders:** ASNB content and data owners, UX designers, accessibility specialists, compliance and security reviewers, and potential users.
+- **Primary users:** new adult investors, including students and young employees saving towards a goal.
+- **Secondary users:** returning investors comparing alternatives.
+- **Stakeholders:** ASNB content and data owners, UX designers, accessibility specialists, compliance and security reviewers, and potential users.
 
 ## In scope
 
