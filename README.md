@@ -1,28 +1,28 @@
 # MyASNB Compare and Plan
 
-A conceptual Decision Support System that explores how clearer fund comparison and savings planning could support new myASNB investors.
+A conceptual Decision Support System for comparing published ASNB fund information and exploring an illustrative savings plan.
 
 - **Course:** CSC649 Special Topics in Computer Science
 - **Author:** Iman Sufi ([@imansufii](https://github.com/imansufii))
-- **Status:** Planning and requirements documentation; no application has been implemented
-- **Proposed technology:** Decision Support System (DSS), subject to lecturer approval
+- **Technology:** Decision Support System (DSS), approved by the lecturer
+- **Status:** Documentation and planning complete; no application has been implemented
 
 ## Summary
 
-MyASNB Compare and Plan proposes a single page where a user could compare selected ASNB funds using consistent, source-linked fields and explore an illustrative savings scenario. The concept is intended to organise information and make assumptions visible. It would not choose an investment for the user, execute transactions, or guarantee returns.
+MyASNB Compare and Plan proposes a single view where a beginner could compare selected ASNB funds using consistent, source-linked fields and explore an illustrative savings scenario. The system would organise information and make assumptions visible. It would not select an investment, execute transactions, or guarantee returns.
 
 ## Problem statement
 
-A new myASNB investor who wants to compare funds must consider information such as fund objectives, pricing methods, suitability, risk information, and charges. ASNB publishes this information in official fund and product materials, but a beginner may still find it difficult to compare the differences when information is reviewed separately. This is a design hypothesis grounded in a real decision context, not a claim that a completed user study has proved a usability failure. The project asks whether a simple comparison-and-planning view could make those trade-offs easier to understand without presenting one fund as the best investment.
+A beginner using myASNB may need to compare fund objectives, price type, risk information, eligibility, and fees before deciding what to investigate further. ASNB publishes these details, but a new investor may find it difficult to weigh several criteria when reading different fund descriptions. The challenge is not a proven failure of the current application; it is a design question about whether a more direct comparison and planning view would improve understanding. This matters because unclear assumptions or overlooked charges could affect how confidently a person evaluates the alternatives.
 
 ## Objectives
 
 1. Present selected fund attributes in a consistent side-by-side comparison.
 2. Let users explore a savings goal using editable contribution, period, and hypothetical-rate assumptions.
-3. Explain eligibility, risk, fees, sources, and missing information in plain language.
+3. Explain eligibility, risk, fees, sources, and missing information clearly.
 4. Keep the decision with the user and clearly separate illustrative output from financial advice.
 
-## Proposed DSS approach
+## DSS approach
 
 The concept combines published fund information, user inputs, a transparent scenario model, and visible rules. A comparison interface would explain the result while leaving the final decision to the investor.
 
@@ -37,7 +37,7 @@ flowchart LR
     F --> G[User reviews trade-offs and decides]
 ```
 
-This independent academic concept is not affiliated with ASNB. A real implementation would require verified current data, appropriate compliance review, and user testing.
+This is an independent academic concept and is not affiliated with ASNB. A real implementation would require current verified data, compliance review, and user testing.
 
 ## Documentation
 
@@ -66,20 +66,3 @@ myasnb-compare-plan/
 └── src/
     └── README.md
 ```
-
-## Current status
-
-- [x] Review the CSC649 assignment brief, rubric, Week 2 lab, Week 3 lab, and current report draft.
-- [x] Prepare the problem statement, scope, requirements, and user stories.
-- [x] Prepare the conceptual DSS explanation, worked example, and Mermaid diagrams.
-- [ ] Confirm the DSS topic with the lecturer.
-- [ ] Validate the problem hypothesis with an approved observation or credible study.
-- [x] Create and link three Sprint 1 issues, feature branches, and pull requests.
-- [x] Create the [Sprint 1 project board](https://github.com/users/imansufii/projects/1) and add the three issues.
-- [x] Review and merge the pull requests, then close the linked issues.
-- [ ] Replace report placeholders with genuine repository screenshots and links.
-- [ ] Complete the required GenAI declaration and independently verify every source before submission.
-
-## Scope and limitations
-
-The repository documents a proposed academic prototype. It does not contain a working myASNB application, real customer data, completed interviews, measured usability results, live fund rankings, or investment advice. See the [problem statement and scope](docs/problem-statement.md) for the full boundary.
