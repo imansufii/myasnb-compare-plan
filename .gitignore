@@ -1,0 +1,37 @@
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary and generated files
+*.tmp
+*.bak
+*.log
+coverage/
+dist/
+build/
+
+# JavaScript
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Java
+*.class
+target/
+
+# Office lock files
+~$*
