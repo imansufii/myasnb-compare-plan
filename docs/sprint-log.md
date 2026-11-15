@@ -1,8 +1,8 @@
 # Sprint 1 Log
 
-**Planning date:** 16 November 2026  
-**Status:** In progress  
-**Sprint goal:** Organise the MyASNB Compare and Plan concept into a clear portfolio repository and practise the issue, branch, and pull-request workflow using genuine documentation tasks.
+- **Planning date:** 16 November 2026
+- **Status:** In progress
+- **Sprint goal:** Organise the MyASNB Compare and Plan concept into a clear portfolio repository and practise the issue, branch, and pull-request workflow using genuine documentation tasks.
 
 ## Sprint backlog
 
@@ -34,7 +34,7 @@
 ## Blockers
 
 - The connected GitHub integration can read the repositories but did not have permission to create issues on 16 November 2026. An authenticated GitHub API fallback was used successfully.
-- GitHub Projects access still needs to be checked before the three issues can be organised on a board.
+- The available GitHub credential does not include the `read:project` or `project` scope required for GitHub Projects, so the Sprint 1 board could not be created through the API.
 
 ## Sprint review
 

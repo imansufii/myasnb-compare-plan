@@ -2,10 +2,10 @@
 
 A conceptual Decision Support System that explores how clearer fund comparison and savings planning could support new myASNB investors.
 
-**Course:** CSC649 Special Topics in Computer Science  
-**Author:** Iman Sufi ([@imansufii](https://github.com/imansufii))  
-**Status:** Planning and requirements documentation; no application has been implemented  
-**Proposed technology:** Decision Support System (DSS), subject to lecturer approval
+- **Course:** CSC649 Special Topics in Computer Science
+- **Author:** Iman Sufi ([@imansufii](https://github.com/imansufii))
+- **Status:** Planning and requirements documentation; no application has been implemented
+- **Proposed technology:** Decision Support System (DSS), subject to lecturer approval
 
 ## Summary
 
