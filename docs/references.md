@@ -1,6 +1,6 @@
 # References
 
-These sources are cited in the report and support the repository documentation. Official pages and publication records were checked on 16 November 2026.
+These sources are cited in the report and support the repository documentation.
 
 Amanah Saham Nasional Berhad. (n.d.-a). *ASNB online platforms*. https://www.asnb.com.my/asnb-online-platforms
 
