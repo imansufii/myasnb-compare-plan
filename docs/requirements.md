@@ -4,19 +4,19 @@ These requirements describe a low-fidelity academic prototype. They are testable
 
 ## Functional requirements
 
-- **FR1:** The system shall allow a user to enter a savings goal, monthly contribution, saving period, and optional hypothetical growth rate.
-- **FR2:** The system shall allow a user to select two or three ASNB funds for comparison.
-- **FR3:** The system shall display the selected funds in matching rows that include objective, price type, risk information, fees, and an official source link.
-- **FR4:** The system shall filter funds using published eligibility information and user-selected fund attributes.
-- **FR5:** The system shall recalculate an illustrative savings scenario when the user changes the contribution, period, or hypothetical growth rate.
-- **FR6:** The system shall explain each highlighted difference and display its source date or a missing-information notice.
+- **FR1:** The system shall accept a savings goal, monthly contribution, saving period, and optional assumed growth rate.
+- **FR2:** The system shall allow a user to select two or three funds for comparison.
+- **FR3:** The system shall display selected fund details in matching rows, including objective, price type, risk information, fees, and a source link.
+- **FR4:** The system shall filter funds using published eligibility information or selected fund attributes.
+- **FR5:** The system shall update an illustrative savings calculation when the user changes the contribution, period, or assumed rate.
+- **FR6:** The system shall explain each highlighted difference and display the relevant source date or a missing-information notice.
 
 ## Non-functional requirements
 
-- **NFR1 — Performance:** At least 95% of comparison and filter updates shall appear within 3 seconds when the prototype is tested with up to 100 mock fund records.
-- **NFR2 — Privacy:** The prototype shall not request, transmit, or store passwords, MyKad numbers, bank-account details, or live ASNB credentials.
-- **NFR3 — Usability:** At least 4 of 5 test participants shall locate the fee information for two selected fictional funds within 3 minutes without assistance.
-- **NFR4 — Accessibility:** Every interactive control shall have a visible text label, and every keyboard-focusable control shall display a visible focus indicator during keyboard navigation.
+- **NFR1 — Response time:** At least 95% of comparison and filter changes shall appear within 3 seconds when tested with 100 mock fund records.
+- **NFR2 — Privacy:** The academic prototype shall neither request nor store passwords, MyKad numbers, bank account details, or live ASNB credentials.
+- **NFR3 — Usability:** At least 4 of 5 test users shall locate the fee information for two selected funds within 3 minutes without help.
+- **NFR4 — Accessibility:** Every interactive control shall include a visible label, and keyboard navigation shall display a visible focus indicator.
 
 ## Requirement traceability
 

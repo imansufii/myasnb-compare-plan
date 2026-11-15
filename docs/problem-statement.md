@@ -2,11 +2,11 @@
 
 ## Problem statement
 
-A new myASNB investor who wants to compare investment funds must consider information such as fund objectives, pricing methods, suitability, risk information, and charges. ASNB publishes this information through official fund and product materials, but it may not be straightforward for someone with limited investment knowledge to compare the differences when information is reviewed separately. This matters because the user may have to remember details from one fund while reading about another, making trade-offs harder to assess. This project therefore asks whether a simple comparison-and-planning view could make the decision easier to understand without presenting one fund as the best investment.
+A beginner using myASNB may need to compare fund objectives, price type, risk information, eligibility, and fees before deciding what to investigate further. ASNB publishes these details, but a new investor may find it difficult to weigh several criteria when reading different fund descriptions. The challenge is not a proven failure of the current application; it is a design question about whether a more direct comparison and planning view would improve understanding. This matters because unclear assumptions or overlooked charges could affect how confidently a person evaluates the alternatives.
 
 ## Evidence and design assumption
 
-The problem is grounded in a real decision context. ASNB publishes fixed-price and variable-price fund information, fund-specific terms, and separate product documents. The myASNB platform also already includes an Investor Suitability Assessment and fund suggestions, while Ria provides automated investment services. These sources demonstrate that users face several attributes and services to understand; they do not prove that the existing application has a usability failure.
+ASNB distinguishes between fixed-price funds, generally priced at RM1 per unit, and variable-price funds, whose unit values depend on net asset value. It also directs investors to prospectuses, Product Highlights Sheets, and Fund Fact Sheets for risks and charges. The myASNB platform already includes an Investor Suitability Assessment and fund suggestions, while Ria provides automated investment services. Compare and Plan would extend this support rather than replace it.
 
 Whether a separate comparison view would help beginners remains a design hypothesis. It should be validated through an approved observation, usability exercise, or credible study before being described as a confirmed user problem. No interviews or user testing are claimed in this repository.
 
