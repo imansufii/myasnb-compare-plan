@@ -76,7 +76,7 @@ myasnb-compare-plan/
 - [ ] Validate the problem hypothesis with an approved observation or credible study.
 - [x] Create and link three Sprint 1 issues, feature branches, and pull requests.
 - [ ] Create the Sprint 1 project board and add the three issues.
-- [ ] Review and merge the pull requests, then close the linked issues.
+- [x] Review and merge the pull requests, then close the linked issues.
 - [ ] Replace report placeholders with genuine repository screenshots and links.
 - [ ] Complete the required GenAI declaration and independently verify every source before submission.
 
