@@ -3,8 +3,6 @@
 - **Status:** Completed
 - **Sprint goal:** Organise the MyASNB Compare and Plan concept into a clear portfolio repository and practise the issue, branch, and pull-request workflow using genuine documentation tasks.
 
-Work on the project concept and report began before the repository was organised. This log records the GitHub documentation work completed during Sprint 1.
-
 ## Sprint backlog
 
 | Issue | Task | Done when | Current status |
