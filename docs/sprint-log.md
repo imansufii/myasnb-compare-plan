@@ -1,8 +1,9 @@
 # Sprint 1 Log
 
-- **Planning date:** 16 November 2026
 - **Status:** Completed
 - **Sprint goal:** Organise the MyASNB Compare and Plan concept into a clear portfolio repository and practise the issue, branch, and pull-request workflow using genuine documentation tasks.
+
+Work on the project concept and report began before the repository was organised. This log records the GitHub documentation work completed during Sprint 1.
 
 ## Sprint backlog
 
@@ -13,8 +14,6 @@
 | [#3](https://github.com/imansufii/myasnb-compare-plan/issues/3) | Add repository README, source placeholder, and Sprint 1 log | The repository is easy to review and the log records actual activity | Completed; [PR #6](https://github.com/imansufii/myasnb-compare-plan/pull/6) merged and issue closed |
 
 ## Work completed
-
-### 16 November 2026
 
 - Reviewed the assignment brief, rubric, lab instructions, and current report.
 - Prepared the repository structure and documentation.
@@ -38,16 +37,3 @@ The documentation was checked against the repository-related rubric before mergi
 - **What went well:** The assignment rubric and report provided a clear source of truth, and separating the documentation into three issues made each pull request focused and reviewable.
 - **What was difficult:** Keeping the repository documents consistent with the report while avoiding claims about testing that has not happened.
 - **What I will change next:** Update the sprint log immediately after each issue or pull-request state changes and keep report screenshots current.
-
-## Evidence checklist
-
-- [x] Three GitHub issues created
-- [x] Issues added to the [Sprint 1 project board](https://github.com/users/imansufii/projects/1)
-- [x] Feature branches pushed
-- [x] Three pull requests opened
-- [x] Pull requests reviewed
-- [x] Completed pull requests merged
-- [x] Corresponding issues closed
-- [x] Sprint log updated with final links and retrospective
-
-Do not mark an item complete until the corresponding GitHub evidence exists.
