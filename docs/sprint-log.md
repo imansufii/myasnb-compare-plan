@@ -51,6 +51,7 @@ The documentation has been checked against the repository-related rubric. Three 
 - [x] Three GitHub issues created
 - [ ] Issues added to a Sprint 1 project board
 - [x] Feature branches pushed
+- [x] Three pull requests opened
 - [ ] Pull requests reviewed (three are open)
 - [ ] Completed pull requests merged
 - [ ] Corresponding issues closed
