@@ -68,7 +68,7 @@ Important limitations and risks include:
 
 ## Alternative
 
-A simpler alternative is a well-organised directory of official factsheets with a glossary. It would be easier to maintain and would reduce calculation risk, but users would still compare documents and work through scenarios themselves. The interactive DSS concept is worth exploring only if lecturer-approved validation shows that the added complexity improves understanding.
+A simpler alternative is a well-organised directory of official factsheets with a glossary. It would be easier to maintain and would reduce calculation risk, but users would still compare documents and work through scenarios themselves. The interactive DSS concept is worth exploring if future validation shows that the added complexity improves understanding.
 
 ## Sources used in this brief
 

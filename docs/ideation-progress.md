@@ -29,11 +29,10 @@ A future low-fidelity prototype could include fund selection, a comparison table
 
 ## Proposed evaluation
 
-If approved, five beginners could be asked to compare two fictional funds, locate fee information, and change a monthly savings amount. Task completion, time, and points of confusion could be recorded. This evaluation has not been conducted, and no results are claimed.
+Five beginners could be asked to compare two fictional funds, locate fee information, and change a monthly savings amount. Task completion, time, and points of confusion could be recorded. This evaluation has not been conducted, and no results are claimed.
 
 ## Open questions
 
-- Will the lecturer approve DSS as the specialised technology?
 - Which official fund fields are necessary for a fair comparison?
 - Does the comparison improve understanding compared with a factsheet directory?
 - How should hypothetical assumptions be shown to avoid false certainty?

@@ -8,7 +8,7 @@ A beginner using myASNB may need to compare fund objectives, price type, risk in
 
 ASNB distinguishes between fixed-price funds, generally priced at RM1 per unit, and variable-price funds, whose unit values depend on net asset value. It also directs investors to prospectuses, Product Highlights Sheets, and Fund Fact Sheets for risks and charges. The myASNB platform already includes an Investor Suitability Assessment and fund suggestions, while Ria provides automated investment services. Compare and Plan would extend this support rather than replace it.
 
-Whether a separate comparison view would help beginners remains a design hypothesis. It should be validated through an approved observation, usability exercise, or credible study before being described as a confirmed user problem. No interviews or user testing are claimed in this repository.
+Whether a separate comparison view would help beginners remains a design hypothesis. It should be validated through observation, a usability exercise, or a credible study before being described as a confirmed user problem. No interviews or user testing are claimed in this repository.
 
 ## Users and stakeholders
 
@@ -34,4 +34,4 @@ Whether a separate comparison view would help beginners remains a design hypothe
 
 ## Proposed evaluation
 
-If approved by the lecturer, a later low-fidelity test could use fictional fund profiles and ask five beginners to compare two options, locate fee information, and change a monthly savings amount. Task completion, time, and points of confusion could be recorded. This is a proposed method only; no results are reported.
+A later low-fidelity test could use fictional fund profiles and ask five beginners to compare two options, locate fee information, and change a monthly savings amount. Task completion, time, and points of confusion could be recorded. This is a proposed method only; no results are reported.

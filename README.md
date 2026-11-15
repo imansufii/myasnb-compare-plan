@@ -4,7 +4,7 @@ A conceptual Decision Support System for comparing published ASNB fund informati
 
 - **Course:** CSC649 Special Topics in Computer Science
 - **Author:** Iman Sufi ([@imansufii](https://github.com/imansufii))
-- **Technology:** Decision Support System (DSS)
+- **Technology:** Decision Support System (DSS), approved by the lecturer
 - **Status:** Documentation and planning complete; no application has been implemented
 
 ## Summary
@@ -66,15 +66,3 @@ myasnb-compare-plan/
 └── src/
     └── README.md
 ```
-
-## Current status
-
-- [x] Problem statement, scope, requirements, and user stories documented
-- [x] DSS concepts, methods, worked example, limitations, and references documented
-- [x] Sprint 1 issues, feature branches, pull requests, and [project board](https://github.com/users/imansufii/projects/1) completed
-- [ ] Prototype and usability testing not started
-- [ ] FSKM GenAI declaration and report screenshots still need to be added to the final submission
-
-## Scope and limitations
-
-The repository documents a proposed academic prototype. It does not contain a working myASNB application, real customer data, completed interviews, measured usability results, live fund rankings, or investment advice. See the [problem statement and scope](docs/problem-statement.md) for the full boundary.
